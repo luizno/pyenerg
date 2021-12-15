@@ -1,0 +1,17 @@
+0.1000 		Gamma
+1.0000 		U
+-0.5000		Ed
+0.0000 		W
+4.00		lamb
+1.0		z
+1.e-15		Emin
+25.0		nscales
+0		nprt
+7		qlim
+7		dslim
+0.3		bbar0
+9		ntemp
+0.5		bbar4
+1		no_side_bands
+10000		min_size
+0		max_size
